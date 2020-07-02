@@ -1,7 +1,8 @@
 01.07.2020 - Create project
-02.07.2020 - Create file History.txt
+02.07.2020 - Create file History.txt, Github, mainForm, mainMenu, MVC, Factory
 
 ------------------------------------
-Github
-Main form
-Main menu
++Github
++Main form
++Main menu (rus, eng)
+Property
